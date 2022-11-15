@@ -3,7 +3,10 @@
   <setup>
     <starting_tile>256</starting_tile>
   </setup>
-  <pict id="logo">
-    <file>assets\gfx\logo.png</file>
+  <pict id="logo_asset">
+    <file>assets\gfx\sudio_logo.png</file>
+  </pict>
+  <pict id="menu_background_asset">
+    <file>assets\gfx\menu_background.png</file>
   </pict>
 </chardata>
