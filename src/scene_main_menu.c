@@ -14,6 +14,7 @@ BOOL scene_main_menu_run() {
 }
 
 static void init() {
+  play_cdda(2);
   init_gpu();
   init_gp(&background, &menu_background_asset, &menu_background_asset_Palettes);
 }
